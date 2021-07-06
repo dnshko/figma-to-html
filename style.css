@@ -1,0 +1,101 @@
+body{
+    /* position: relative; */
+/* width: 1280px; */
+height: 720px;
+
+background: #FF0000;
+}
+
+#fr{
+    position: absolute;
+width: 1223px;
+height: 297px;
+left: 23px;
+top: 27px;
+
+background: #FFFFFF;
+}
+
+#fr-fc{
+    position: absolute;
+width: 446px;
+height: 278px;
+left: 42px;
+top: 10px;
+
+background: #24FF00;
+}
+
+#fr-sc{
+    position: absolute;
+width: 446px;
+height: 278px;
+left: 765px;
+top: 10px;
+
+background: #24FF00;
+}
+
+#sr{
+    position: absolute;
+width: 1223px;
+height: 297px;
+left: 23px;
+top: 374px;
+
+background: #FFFFFF;
+}
+
+#sr-fc{
+    
+position: absolute;
+width: 446px;
+height: 278px;
+left: 54px;
+top: 10px;
+
+background: #000AFF;
+}
+
+#sr-sc{
+    
+position: absolute;
+width: 446px;
+height: 278px;
+left: 765px;
+top: 10px;
+
+background: #000AFF;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    #fr{
+        position: absolute;
+    width: 100vw;
+    height: 297px;
+    top: 27px;
+    
+    background: #000000;
+    }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+}
